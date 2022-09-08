@@ -25,7 +25,7 @@ Jabatan akun dibagi menjadi 4 yaitu: super administrator, administrator, kasir, 
 Untuk mengakses akun Admin, pada bagian akhir url tambahkan auth/login. misal: http://localhost/andry_laundry/auth/login
 
 |    Level    |       Username      | Password |
-|:-----------:|:----------------- -:|:--------:|
+|:-----------:|:-------------------:|:--------:|
 | Super Admin | super_administrator |  12345   |
 | Admin       | admin               |  admin   |
 | Kasir       | kasir               |  kasir   |
